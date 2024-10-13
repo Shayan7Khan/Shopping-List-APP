@@ -25,6 +25,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-//this is a comment
 //this is a comment from laptop
+//and this is reply from pc too
