@@ -39,5 +39,3 @@ class _GroceryListState extends State<GroceryList> {
     );
   }
 }
-//comment from laptop
-//ok i got your comment
